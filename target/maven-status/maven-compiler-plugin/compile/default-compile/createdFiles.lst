@@ -1,0 +1,17 @@
+nike\service\Confirmation$1.class
+nike\service\Item$Builder.class
+nike\service\OrderProcessingService$Callback.class
+nike\service\OrderFailure.class
+nike\service\OrderProcessingService.class
+nike\service\Order$1.class
+nike\service\Confirmation$Builder.class
+nike\transport\SimpleOrderServiceClient.class
+nike\service\Confirmation.class
+nike\service\Item$1.class
+nike\service\Order$Builder.class
+nike\service\OrderFailure$Builder.class
+nike\service\OrderFailure$1.class
+nike\transport\SimpleOrderServiceEndpoint.class
+nike\service\Item.class
+nike\service\SimpleOrderService.class
+nike\service\Order.class
